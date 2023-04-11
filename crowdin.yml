@@ -1,0 +1,3 @@
+files:
+  - source: /src/resource/en/validation.php
+    translation: /src/resource/%two_letters_code%/validation.php
