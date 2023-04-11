@@ -13,8 +13,8 @@ return [
     |
     */
 
-    'accepted'             => 'The :attribute must be accepteD.',
-    'active_url'           => 'The :attribute is not a valid URL.',
+    'accepted'             => ':attribute more biti prihvacjen.',
+    'active_url'           => ':attribute nije validan url.',
     'after'                => 'The :attribute must be a date after :date.',
     'after_or_equal'       => 'The :attribute must be a date after or equal to :date.',
     'alpha'                => 'The :attribute may only contain letters.',
